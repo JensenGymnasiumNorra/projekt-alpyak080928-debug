@@ -1,5 +1,4 @@
 ﻿# Projekt 1: To-Do-lista
-
 ## Målsättning
 Bygg en enkel app där användaren kan visa, lägga till och ta bort uppgifter i en lista.
 
